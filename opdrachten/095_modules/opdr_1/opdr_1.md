@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_1.py
 * Pas de code aan van opdr_1.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Gebruik de code uit het hoofdstuk over modules op [edutorial.nl](https://www.edutorial.nl/course/python)
 Maak hiermee zelf een eigen module en importeer je module in je programma-script.

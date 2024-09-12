@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Maak een for-loop met een range-functie die loopt van 3 tot 81 en iedere keer 3 optelt bij het vorige getal.
 Doe alle getallen uit de range in het kwadraat en deel ze vervolgens door 3

@@ -14,9 +14,10 @@ Opdracht 1a
 > O mamma mia, wat maak je toch heerlijke pizza's
 
 Opdracht 1b
-* Gebruik de variabelen 'voornaam' en 'achternaam' en de print-functie  
+* Ken de waarde 'Albert' toe aan de variabele `voornaam`
+* Ken de waarde 'Einstein' toe aan de variabele `achternaam` 
+* Combineer beide variabelen in een printopdracht zodat onderstaande op het scherm wordt getoond:
 
-* Toon de volgende zin op het scherm:
 > Albert Einstein zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'
 
 

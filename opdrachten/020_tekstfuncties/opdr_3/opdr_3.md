@@ -6,7 +6,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 ### Opdracht
 Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
-* Commit en push je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Met onderstaande code kun je een mooie kerstboom op het scherm tonen
 Aan jou de taak om vijf bomen naast elkaar te tekenen.

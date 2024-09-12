@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_1.py
 * Pas de code aan van opdr_1.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Schrijf een programma waarin je een list aanmaakt.
 Daarnaast maak je 4 dictionaries om gegevens van personen in op te slaan. Je mag zelf namen bedenken.

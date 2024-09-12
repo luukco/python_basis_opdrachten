@@ -6,10 +6,10 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 ### Opdracht
 Maak gebruik van het bestand: opdr_1.py
 * Pas de code aan van opdr_1.py
-* Commit en push je code naar github
+* Commit en push je code naar github of bewaar je code in onedrive.
 
-Maak van onderstaande waarden een lijst.  
-Zorg ervoor dat de lijst wordt geprint.
+Stop onderstaande waarden als `list` in een variabele `my_list`  
+Zorg ervoor dat de `my_list` wordt geprint op het scherm.
 
 13  
 "wat een weertje"  

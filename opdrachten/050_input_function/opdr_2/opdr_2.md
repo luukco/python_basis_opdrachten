@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_2.py
 * Pas de code aan van opdr_2.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Je gaat uit eten met Paul, Kees, Marie en Hilda.
 Je moet dit aan het restaurant doorgeven dus schrijf je een handig programma dat een lijstje gasten maakt. Maak zoveel mogelijk gebruik van [list-methods](https://www.w3schools.com/python/python_ref_list.asp)

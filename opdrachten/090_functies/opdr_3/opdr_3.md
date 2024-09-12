@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 
 Schrijf 2 functies die het volume uitrekenen.  

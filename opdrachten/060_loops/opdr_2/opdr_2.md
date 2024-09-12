@@ -7,7 +7,8 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_2.py
 * Pas de code aan van opdr_2.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
+
 
 Maak gebruik van een for-loop en een range-functie om de volgende list op het scherm te tonen:
 

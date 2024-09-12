@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_1.py
 * Pas de code aan van opdr_1.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Schrijf een programma dat twee input variabelen accepteert. De variabelen stellen twee zijden van een rechthoekig driehoek voor. Bereken de lengte van de 3e zijde door gebruik te maken van de stelling van pythagoras. (effe googlen dus!)
 

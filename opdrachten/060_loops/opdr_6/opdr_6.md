@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_6.py
 * Pas de code aan van opdr_6.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 In deze opdracht ga je list-methoden gebruiken om een lijst pizza's aan te passen en te printen.
 Gebruik deze lijst met pizza's:

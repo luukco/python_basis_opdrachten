@@ -7,7 +7,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 
 * Maak gebruik van het bestand: opdr_5.py
 * Pas de code aan van opdr_5.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Maak een comprehensive list.
 Gebruik een range met getallen van 1 tot 20

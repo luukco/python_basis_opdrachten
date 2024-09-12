@@ -6,7 +6,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 ### Opdracht
 Maak gebruik van het bestand: opdr_2.py
 * Pas de code aan van opdr_2.py
-* Push en submit je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Maak een dictionary met een aantal grote rivieren en de landen waar ze doorheen stromen
 Bij deze opdracht heb je ook een lijst nodig met de landen waar de rivieren door stromen.
@@ -42,7 +42,7 @@ Output:
 >De rivier Maas stroomt onder andere door Nederland
 
 Print de naam van de 3e rivier  
-Print het 3e land waar de 1e rivier doorheen stroomt
+Print het 3e land waar de 3e rivier doorheen stroomt
 Zowel land als rivier beginnen met een hoofdletter 
 
 Output:  
