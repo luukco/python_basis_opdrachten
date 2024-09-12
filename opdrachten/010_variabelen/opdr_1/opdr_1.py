@@ -1,6 +1,6 @@
 # Opdracht 1
 # Naam student: Luuk van de Hoek
-# Groep:
+# Groep: 1
 
 # Hier komt je code...
 
